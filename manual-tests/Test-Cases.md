@@ -46,7 +46,7 @@
 | BUG-001 | Duplicate book names accepted without warning | Medium | High | TC-016 |
 | BUG-002 | Cryptic URL slug for special-character-only book names | Low | Low | TC-017 |
 
-Full details are in [Bug-Report.md](Bug-Report.md).
+Full details are in [Bug-Report.md](../bug-reports/Bug-Report.md).
 
 ## 3. Test Cases
 
