@@ -1,11 +1,10 @@
 # BookStack Demo - QA Testing Project
 
-**Author:** Fuad Hasan
-**GitHub:** [quditor](https://github.com/quditor)  
-**Date:** 2026-10-30  
-**Application under test:** [BookStack Demo](https://demo.bookstackapp.com/)  
-**Feature tested:** Book Management  
-
+- **Author:** Fuad Hasan
+- **GitHub:** [quditor](https://github.com/quditor)
+- **Date:** 2026-10-30
+- **Application under test:** [BookStack Demo](https://demo.bookstackapp.com/)
+- **Feature tested:** Book Management
 ---
 
 ## Project Overview
